@@ -1,4 +1,4 @@
-#### Creating a Telegram bot that posts daily top 5 Twitter trends in a private group involves several steps.
+## Creating a Telegram bot that posts daily top 5 Twitter trends in a private group involves several steps.
 We'll use Python and some libraries for this project.
 
 **Creating a Telegram bot:** Create a new bot by talking to the BotFather on Telegram. Follow the instructions, and you'll receive a bot token. Save this token for later.
